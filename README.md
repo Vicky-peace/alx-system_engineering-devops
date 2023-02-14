@@ -1,1 +1,1 @@
-This repo contains solutions of shell tasks
+Prints Hello world
